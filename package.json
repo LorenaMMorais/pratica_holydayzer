@@ -1,0 +1,18 @@
+{
+  "name": "holydayzer",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lorena morais",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
